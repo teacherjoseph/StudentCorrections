@@ -35,9 +35,9 @@ print("Your total area of the wall is : ", tlarea)
 print("The number of boxed tiles will be  : ", nbox)
 print("The total cost will be : ", price[tl-1]*nbox)
 
-
-git config --global user.email "joseph.opio@bisp.edu.my"
-git config --global user.name "Teacher Joseph"
+#
+# git config --global user.email "joseph.opio@bisp.edu.my"
+# git config --global user.name "Teacher Joseph"
 
 
 
